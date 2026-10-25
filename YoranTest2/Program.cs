@@ -4,8 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Yoran");
-            //test time to lock in
+            Console.WriteLine("Hello Yoran: ");
+            // testing rn
         }
     }
 }
