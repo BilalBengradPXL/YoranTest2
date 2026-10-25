@@ -5,7 +5,8 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Yoran: ");
-            // testing rn
+            // testing rn dude 
+            // how to suck at games like a slut
         }
     }
 }
